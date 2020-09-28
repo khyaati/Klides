@@ -1,6 +1,6 @@
 # Kslides
 
-### A web app to generate dynamic slides through browser efiiciently
+### A web app to generate dynamic slides efficiently by the means of a browser
 
 * This app makes API calls to <code>__googleapis__</code>
 * Generate your <code>__CLIENT_ID__</code> and <code>__API_KEY__</code> from <code>__https://developers.google.com/slides/__</code>
