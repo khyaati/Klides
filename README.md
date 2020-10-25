@@ -1,4 +1,4 @@
-# Kslides
+# Quickstart
 
 ### A web app to generate dynamic slides efficiently
 
