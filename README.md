@@ -1,4 +1,4 @@
-# Quickstart
+# Klides
 
 ### A web app to generate dynamic slides efficiently
 
